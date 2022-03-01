@@ -1,5 +1,5 @@
 # credits to hseeberger/sbt-scala
-FROM ramsvidor/graalvm:22.0.0.2-jdk17
+FROM ramsvidor/graalvm:22.0.0.2-jdk11
 
 ARG SCALA_VERSION="2.13.8"
 ARG SBT_VERSION="1.6.2"
